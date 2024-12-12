@@ -1,0 +1,4 @@
+com\tutorial\spouts\URLSpout.class
+com\tutorial\bolts\CSVExportBolt.class
+com\tutorial\bolts\ParseBolt.class
+com\tutorial\CrawlTopology.class
